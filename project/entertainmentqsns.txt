@@ -1,0 +1,47 @@
+﻿a 1 who is the director of movie mahanati?
+A.Nagashwin B.Sukumar C.rajamouli D.V.V.vinayak
+Explanation:Nagashwin is the direactor of movie mahanati.^
+b 2 what is sai dharam tej recent movie?
+A.intelliigent B.chitralahari C.supreme D.winner
+Explanation:chitralahari is sai dharam tej recent movie.^
+c 3 which telugu movie got national awards this year for best film?
+A.KGF B.rangathalam c.majili D.mahanati
+Explanation:mahanati got best telugu film.^
+d 4 which movie got best film on social issues?
+A.padmaavat B.uri C.paani D.padman
+Explanation:padman got best film on social issues.^
+b 5 Which was the first 3D movie in India?
+A.Chhota Chetan  B.My Dear Kuttichathan C.Roadside Romeo D.None of these
+Explanation:The first Indian 3D movie My Dear Kuttichathan (Tamil Movie), which released 27 years ago.^
+#
+c 1 Which movie has been chosen as the India’s official entry to Oscar 2019?
+A. Newton B.Smile Pinki C.Village Rockstars D.None of these
+Explanation:Rima Das’ directorial ‘Village Rockstars’, an Assamese movie, has been selected as India’s official entry to the Oscars 2019.^
+c 2 How many times AR Rahman was nominated for Oscar?
+A.4     B.1       C.2   D.none of these
+Explanation:A R Rahman (Allan Rakha Rahman) won two Oscar awards for the film “SLUMDOG MILLIONAIRE”^
+c 3 Which was the first film to win the Filmfare Best Film Award?
+A.Boot Polish  B.Jagriti  C.Do Bigha Zamin   D.None of these
+Explanation:First awarded – Do Bigha Zamin (1954)^
+a 4 Which was the first Color movie in India?
+A.Kisan Kanya B.Alam Ara C.Raja Harishchandra D.None of these
+Explanation:Kisan Kanya was a 1937 Hindi Cinecolor feature film which was directed by Moti.^
+a 5 Which actor has won the most national awards in India?
+A.Shah Rukh Khan B.Amitabh Bachchan C.Aamir Khan D.None of these
+Explanation:Dilip Kumar and Shah Rukh Khan, with eight wins, have more Best Actor awards than any other actor. Amitabh Bachchan has five wins.^
+$
+c 1 Which was the first Indian movie nominated for Oscar?
+A. Salaam Bombay B.Lagaan C.Mother India D.None of these
+Explanation:As of 2014, only three Indian films—Mother India (1957), Salaam Bombay! (1988) and Lagaan (2001).^
+a 2 Who is known as the Father of Indian cinema?
+A.Dhundiraj Govind Phalke B.Charan Singh C.Raja Lalith Rai D.Balram Naidu
+Explanation:Dhundiraj Govind Phalke^
+c 3 How many Oscar awards was won by ‘Slumdog Millionaire’ movie?
+A.5    B.10          c.8     D.none of the these
+Explanation:Slumdog Millionaire’ sweeps eight Oscars at the 81st Academy Awards including Best Adapted Screenplay, Cinematography etc^
+a 4 Which actor wins the best actor award in the 2018 Filmfare Awards?
+A.Irrfan Khan    B.Aamir Khan     C.Shah Rukh Khan     D.None of these
+Explanation:Filmfare Awards 2018: Irrfan Khan won the Best Actor in a Leading Role (Male) for Hindi Medium while the movie received the Best Film award.^
+b 5 which got best makeup artist in national awards this year?
+A.uri   B.awe  C.kgf   D.mahanati
+Explanation:awe ranjith got this award.^

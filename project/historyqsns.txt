@@ -1,0 +1,29 @@
+a 1 Highest peak in the world?
+a)Mount everest    b)xyz    c)abc    d)jkl
+Explanation:It is the highest peak in the world.^
+b 2 Lowest peak in the world?
+a)Mount everest    b)xyz    c)abc    d)jkl
+Explanation:It is the lowest peak in the world.^
+c 3 Lowest peak in the world?
+a)Mount everest    b)xyz    c)abc    d)jkl
+Explanation:It is the lowest peak in the world.^
+c 4 National Medical Council (NMC) will comprise of how many members?
+a)35 members b)30 members c)25 members d)20 members
+Explanation:National Medical Commission (NMC) will consist of 25 members.^
+c 5 How much amount will be invested in Infrastructure building by the government of India ?
+a) Rs 75 lakh cr b) Rs 50 lakh cr c) Rs 100 lakh cr d) Rs 10 lakh cr
+Explanation:Government to invest Rs 100 lakh cr in infrastructure building. One nation, one constitution spirit has become a reality after scrapping of provisions of Article 370.^
+#
+c 1 Who built Taj Mahal?
+A)xyz B)abc C)Shahjahan D)efg
+Explanation:It is the lowest peak in the world.^
+c 2 Independence day is celebrated on?
+A)xyz B)abc C)15 August D)efg
+Explanation:It is the lowest peak in the world.^
+$
+c 1 Who built Taj Mahal?
+A)xyz B)abc C)Shahjahan D)efg
+Explanation:It is the lowest peak in the world.^
+c 2 Independence day is celebrated on?
+A)xyz B)abc C)15 August D)efg
+Explanation:It is the lowest peak in the world.^

@@ -1,0 +1,35 @@
+d 1 Who has been appointed as the new chairman of Central Board of Indirect taxes and Customs (CBIC)?
+a)John joseph b)Vanaja N.Sarna c)Mahender Singh d) S Ramesh
+Explanation:S Ramesh was appointed as the new chairman of CBIC.^
+a 2 Who has been appointed as the acting Chairman of the Union Public Service Commission (UPSC)? 
+a)ArvindSaxena b)SudhaJain c)KirtiKumar d) Omi Agrawal
+Explanation:Arvind Saxena was appointed as the new chairman of UPSC.^
+c 3 Pappu Karki, the popular Kumaoni folk singer has passed away. He was native of which state?
+a)Jammu&Kashmir b)HimachalPradesh c)Uttarakhand d) Assam
+Explanation:It is the lowest peak in the world.^
+c 4 National Medical Council (NMC) will comprise of how many members?
+a)35 members b)30 members c)25 members d)20 members
+Explanation:National Medical Commission (NMC) will consist of 25 members.^
+c 5 How much amount will be invested in Infrastructure building by the government of India ?
+a) Rs 75 lakh cr b) Rs 50 lakh cr c) Rs 100 lakh cr d) Rs 10 lakh cr
+Explanation:Government to invest Rs 100 lakh cr in infrastructure building. One nation, one constitution spirit has become a reality after scrapping of provisions of Article 370.^
+b 6 India’s first-ever national police museum will establish in which city?
+a)Chennai b)Delhi c)Nagpur d)Kolkatha
+Explanation:Delhi became the 1st city to establish national police museum.^
+c 7 Which country will host the 45th G7 summit 2019?
+a)Italy b)Germany c)France d)Canada
+Explanation:France will host the 45th G7 summit 2019.^
+#
+c 1 Who built Taj Mahal?
+A)xyz B)abc C)Shahjahan D)efg
+Explanation:It is the lowest peak in the world.^
+c 2 Independence day is celebrated on?
+A)xyz B)abc C)15 August D)efg
+Explanation:It is the lowest peak in the world.^
+$
+c 1 Who built Taj Mahal?
+A)xyz B)abc C)Shahjahan D)efg
+Explanation:It is the lowest peak in the world.^
+c 2 Independence day is celebrated on?
+A)xyz B)abc C)15 August D)efg
+Explanation:It is the lowest peak in the world.^
