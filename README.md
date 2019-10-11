@@ -1,5 +1,5 @@
 # quizgame
-My first project in C
+My first project in C.
 I've build this project along with my friend Yasa Sindhu using C language.
 We implemented this project using the files concept and structures.
 Since a quiz includes questions along with multiple choices,we thought it would be better to choose structures for storing the questions that are retrieved from a file.
